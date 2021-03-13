@@ -11,6 +11,7 @@
 ## 기능1. 엔드 포인트 볼륨 컨트롤
 210313 완료 - Microsoft Sample [EndpointVolume](https://docs.microsoft.com/en-us/windows/win32/coreaudio/endpointvolume) 응용, [Arduino - Windows UART](https://playground.arduino.cc/Interfacing/CPPWindows/)
 
+![0](README/0.jpg)
 
 ## 기능2. 음소거 Mute
 
