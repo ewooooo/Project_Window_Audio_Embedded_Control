@@ -1,4 +1,4 @@
-# Project_Window_Audio_Embedded_Control
+# Project_Windows_Audio_Embedded_Control
 임베디드 디바이스를 이용한 윈도우 시스템 음향 제어
 
 ---
@@ -9,6 +9,8 @@
 ---
 
 ## 기능1. 엔드 포인트 볼륨 컨트롤
+210313 완료 - Microsoft Sample [EndpointVolume](https://docs.microsoft.com/en-us/windows/win32/coreaudio/endpointvolume) 응용, [Arduino - Windows UART](https://playground.arduino.cc/Interfacing/CPPWindows/)
+
 
 ## 기능2. 음소거 Mute
 
